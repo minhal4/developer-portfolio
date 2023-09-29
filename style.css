@@ -12,8 +12,13 @@ h1 {
     color: orange;
 }
 
-section {
+.top-banner {
     display: flex;
+    
+        background-image: url(top-banner.png);
+        background-repeat: no-repeat;
+        margin-bottom: 200px;
+   
 }
 
 #as {
@@ -34,7 +39,30 @@ section {
     background-image: linear-gradient(orange ,tomato);
     padding: 10px 40px;
 }
-.top-banner{
-    background-image: url(top-banner.png);
+#dream_big{
+    display: flex;
+    background-image: url(dream-bg.png);
     background-repeat: no-repeat;
+    background-position: right;
+    margin-bottom: 200px;
+    
+}
+
+#af img {
+    border-radius: 40%;
+}
+#center{
+    text-align: center;
+}
+#mar{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#hook
+{
+    
+       color:#F5F5F5 ;
+       background-image: linear-gradient(red,green);
+       text-decoration: none;
+       padding: 10px 40px;
 }

@@ -70,6 +70,7 @@ h1 {
    background-image: url(exp-bg.png);
    background-repeat: no-repeat;
    background-position: left;
+   margin-bottom: 100px;
 }
 .sobar-flex{
     display: flex;
@@ -82,10 +83,8 @@ h1 {
     width: 40%;
     margin-right: 8%;
     margin-left: 4%;
-    padding-left: 50 px;
-}
-.shadow{
+    border: red;
     box-shadow: 20px 20px 20px 20px black;
-    padding-left: 50 px;
-
+    padding-left: 20px;
+    border-right: 8px solid red;
 }

@@ -66,3 +66,26 @@ h1 {
        text-decoration: none;
        padding: 10px 40px;
 }
+.exper{
+   background-image: url(exp-bg.png);
+   background-repeat: no-repeat;
+   background-position: left;
+}
+.sobar-flex{
+    display: flex;
+}
+.komola{
+    color: orange;
+}
+.wijamela
+{
+    width: 40%;
+    margin-right: 8%;
+    margin-left: 4%;
+    padding-left: 50 px;
+}
+.shadow{
+    box-shadow: 20px 20px 20px 20px black;
+    padding-left: 50 px;
+
+}

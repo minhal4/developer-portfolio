@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
 
 }
 
@@ -28,8 +29,12 @@ section {
     margin-top: 80px;
 }
 #button{
-    color:#F5F5F5;
+    color: #F5F5F5;
     text-decoration: none;
     background-image: linear-gradient(orange ,tomato);
     padding: 10px 40px;
+}
+.top-banner{
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
 }

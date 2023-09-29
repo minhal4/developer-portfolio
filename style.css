@@ -1,10 +1,35 @@
-body{
+body {
     font-family: 'Poppins', sans-serif;
 
 }
-h1{
+
+h1 {
     font-size: 50px;
 }
-#or{
+
+#or {
     color: orange;
+}
+
+section {
+    display: flex;
+}
+
+#as {
+    width: 50%;
+    padding-left: 5%;
+    margin-right: 50px;
+}
+
+#ad img {
+    width: 100%; 
+    max-width: 100%; 
+    border-radius: 40%; 
+    margin-top: 80px;
+}
+#button{
+    color:#F5F5F5;
+    text-decoration: none;
+    background-image: linear-gradient(orange ,tomato);
+    padding: 10px 40px;
 }
